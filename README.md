@@ -1,4 +1,4 @@
-<h1 align=center><b>2025 Applied Statiscs ::rocket::</b></h1>
+<h1 align=center><b>2025 Applied Statiscs :rocket:</b></h1>
 <h1 align=center>Higher Diploma in Computing for Data Analytics</h1>
 <h3 align=center>Guillermo F. Martin Gonzalez</h3>
 
