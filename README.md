@@ -27,6 +27,8 @@ If you do not have Git, VScode or Python installed here are some useful links:
 - VS Code: https://code.visualstudio.com/
 - Python: https://www.python.org/; https://realpython.com/installing-python/
 
+You may also need to install some of the Python packages outlined in the [requirements.txt](/requirements.txt) file. Installing packages in Python is not an arbitrary process, I would reccomend doing a bit of reading in order to keep an updated and stable Python and package library. I recently came across the package manager `pixi`, which I have been greatly enjoying and would highly reccomend. More information about `pixi` can be found [here](https://pixi.sh/dev/). 
+
 
 
 
